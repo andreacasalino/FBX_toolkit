@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+<Body name="R_anchor">
+	<Transf_fix tx="52.013000" ty="-71.889000" tz="416.070007" rx="0.629234" ry="0.950662" rz="-2.870378"></Transf_fix>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_1_red.stl">
+	<Joint_rot gamma="0" z="100.162" x="30" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="0" B="0"></Material>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_2_red.stl">
+	<Joint_rot gamma="0" z="0" x="-30" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="128" B="0"></Material>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_3_red.stl">
+	<Joint_rot gamma="0" z="251.925" x="-40.5" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="0" B="0"></Material>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_4_red.stl">
+	<Joint_rot gamma="0" z="0" x="40.5" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="128" B="0"></Material>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_5_red.stl">
+	<Joint_rot gamma="0" z="265.001" x="27" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="0" B="0"></Material>
+	<Body STL_path="CAD/YuMi_R/STL/Link_R_6_red.stl">
+	<Joint_rot gamma="0" z="0" x="-27" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="128" B="0"></Material>
+	<Body>
+	<Joint_rot gamma="0" z="176" x="0" alfa="0" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="254" G="0" B="0"></Material>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+</Body>
+<Body name="L_anchor">
+	<Transf_fix tx="52.013000" ty="71.889999" tz="416.070007" rx="-0.629225" ry="0.950659" rz="2.870254"></Transf_fix>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_1_red.stl">
+	<Joint_rot gamma="0" z="100.162" x="30" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="0" B="254"></Material>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_2_red.stl">
+	<Joint_rot gamma="0" z="0" x="-30" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="200" B="254"></Material>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_3_red.stl">
+	<Joint_rot gamma="0" z="251.925" x="-40.5" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="0" B="254"></Material>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_4_red.stl">
+	<Joint_rot gamma="0" z="0" x="40.5" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="200" B="254"></Material>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_5_red.stl">
+	<Joint_rot gamma="0" z="265.001" x="27" alfa="-1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="0" B="254"></Material>
+	<Body STL_path="CAD/YuMi_L/STL/Link_L_6_red.stl">
+	<Joint_rot gamma="0" z="0" x="-27" alfa="1.5708" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="200" B="254"></Material>
+	<Body>
+	<Joint_rot gamma="0" z="176" x="0" alfa="0" q_min="-6.28" q_max="6.28"></Joint_rot>
+	<Material R="0" G="0" B="254"></Material>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+	</Body>
+</Body>
+<Body STL_path="CAD/YuMi_Base.stl">
+</Body>
+</Robot>

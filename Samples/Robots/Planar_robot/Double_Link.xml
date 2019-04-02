@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+	<Body STL_path="Link.stl">
+		<Transf_fix tx="100" ty="0" tz="0" rx="0" ry="0" rz="0"></Transf_fix>
+	<Body STL_path="Link.stl">
+		<Transf_fix tx="70.71" ty="70.71" tz="0" rx="0" ry="0" rz="0.785"></Transf_fix>
+	</Body>
+	</Body>
+	<Base tx="0" ty="0" tz="0" rx="0" ry="0" rz="0"></Base>
+</Robot>

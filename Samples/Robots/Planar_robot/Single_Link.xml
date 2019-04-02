@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+	<Body STL_path="Link.stl">
+		<Joint_rot gamma="0" z="0" x="100" alfa="0" q_min="-6.28" q_max="6.28"></Joint_rot>
+	</Body>
+	<Base tx="0" ty="0" tz="0" rx="0" ry="0" rz="0"></Base>
+</Robot>
