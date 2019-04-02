@@ -37,4 +37,4 @@ Available tools:
  See the examples provided.
 
 
-All samples are contained in the folder Usages, as .bat files.
+All samples are contained in the folder Usage, as .bat files.
