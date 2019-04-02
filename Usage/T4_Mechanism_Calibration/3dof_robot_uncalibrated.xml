@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<Mechanism>
+<Body STL_path="Planar_Robot/Link.stl">
+<Material R="254" G="0" B="0"></Material>
+<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+<Body STL_path="Planar_Robot/Link.stl">
+<Material R="0" G="254" B="0"></Material>
+<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+<Body STL_path="Planar_Robot/Link.stl">
+<Material R="0" G="0" B="254"></Material>
+<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+</Body>
+</Body>
+</Body>
+</Mechanism>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<Mechanism>
+<Body>
+	<Transf_fix tx="0" ty="70" tz="0" rx="0" ry="0" rz="0"></Transf_fix>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="254" G="0" B="0"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="254" G="0" B="0"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="254" G="0" B="0"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		</Body>
+		</Body>
+		</Body>
+</Body>
+<Body>
+	<Transf_fix tx="0" ty="-70" tz="0" rx="0" ry="0" rz="0"></Transf_fix>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="0" G="0" B="254"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="0" G="0" B="254"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		<Body STL_path="Planar_Robot/Link.stl">
+		<Material R="0" G="0" B="254"></Material>
+		<Joint_rot gamma="0" z="0" x="100" alfa="0"></Joint_rot>
+		</Body>
+		</Body>
+		</Body>
+</Body>
+<Body STL_path="Planar_Robot/Dual_base.stl">
+</Body>
+</Mechanism>

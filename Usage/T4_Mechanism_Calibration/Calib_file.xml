@@ -1,0 +1,15 @@
+Preamble
+<Calib_file>
+     <Pose>
+          <EE_Pose x="-182.049685" y="59.231892" z="0.000000"></EE_Pose>
+          <Q_Pose q="-2.785600" q="-0.978750" q="-2.032378"></Q_Pose>
+     </Pose>
+     <Pose>
+          <EE_Pose x="-82.039419" y="116.518806" z="0.000000"></EE_Pose>
+          <Q_Pose q="1.710853" q="-0.780005" q="2.056576"></Q_Pose>
+     </Pose>
+     <Pose>
+          <EE_Pose x="-51.720472" y="-3.269535" z="0.000000"></EE_Pose>
+          <Q_Pose q="-2.173547" q="-1.833136" q="-2.750743"></Q_Pose>
+     </Pose>
+</Calib_file>
