@@ -1,2 +1,2 @@
 # FBX_toolkit
-Toolbox for crating and managing complex .fbx files, to be used in Unity
+Toolbox for creating and managing complex .fbx files, for using it in Unity.
