@@ -1,1 +1,0 @@
-"../../../x64/Release/T1_XML_2_FBX.exe" "YUMI_reduced.xml" "YUMI_reduced.fbx"
